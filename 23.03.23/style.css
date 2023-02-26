@@ -1,0 +1,18 @@
+.btns {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+button {
+    width: 150px;
+    height: 37px;
+    color: purple;
+}
+
+#imgs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
